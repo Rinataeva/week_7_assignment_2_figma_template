@@ -1,3 +1,18 @@
+@import "_normalize.css";
+@import "_fonts.css"; 
+@import "_variables.css";
+@import "_global.css"; 
+@import "_header.css";
+@import "_main.css"; 
+@import "_footer.css";
+@import "_media.css"; 
+
+
+
+
+
+
+
 body {
   font-family: "League Spartan", sans-serif;
 }
@@ -21,6 +36,13 @@ body {
   width: 100%;
   height: 97vh;
 }
+
+/* @media screen and(max-width: 1023px) and (min-width: 760px) */
+/* .main-container { 
+grid-template-rows: repeat(4, 1fr);
+grid-template-areas: "content content content img img" "content content content img img" "content content content img img" "nav nav nav nav nav";
+margin: 5% 5% 0 5%  */
+
 .item-a {
   display: grid;
   grid-template-areas: "logo menu";

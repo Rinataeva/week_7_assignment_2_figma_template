@@ -1,0 +1,19 @@
+/* .footer{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.footer__list{
+    display: flex;
+    align-items: center;
+}
+.footer__item:not(:last-child){
+    margin-right: 34px;
+}
+.footer__link{
+    line-height: 160%;
+    color: var(--color-accent);
+    transition: color 0.3s ease-in-out;
+}
+.footer__link:hover{
+    color: var(--color-hover);
+} */

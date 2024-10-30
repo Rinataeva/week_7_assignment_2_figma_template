@@ -1,0 +1,26 @@
+/* @media(max-width: 1024px){
+    .hero__container{
+        display:block;
+    }
+    .hero__left{
+        max-width: 800px;
+        margin: 0 auto;
+        text-align: center;
+    }
+    .btn__hero{
+        margin-bottom: 70px;
+    }
+    .hero__img{
+        display: inline-block;
+        text-align: center;
+    }
+    .opportunities__items {
+        column-gap: 15px;
+    }
+    .opportunities__item {
+        grid-column: span 6;
+    }
+}
+@media (max-width: 767px){
+
+} */
